@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cerebral_hemorrhage_module/static/css/main.b6d32e15.chunk.css",
+    "main.js": "/cerebral_hemorrhage_module/static/js/main.70f217bd.chunk.js",
+    "main.js.map": "/cerebral_hemorrhage_module/static/js/main.70f217bd.chunk.js.map",
+    "runtime-main.js": "/cerebral_hemorrhage_module/static/js/runtime-main.f50cc2ab.js",
+    "runtime-main.js.map": "/cerebral_hemorrhage_module/static/js/runtime-main.f50cc2ab.js.map",
+    "static/js/2.3f16312c.chunk.js": "/cerebral_hemorrhage_module/static/js/2.3f16312c.chunk.js",
+    "static/js/2.3f16312c.chunk.js.map": "/cerebral_hemorrhage_module/static/js/2.3f16312c.chunk.js.map",
+    "static/js/3.3ca0cd65.chunk.js": "/cerebral_hemorrhage_module/static/js/3.3ca0cd65.chunk.js",
+    "static/js/3.3ca0cd65.chunk.js.map": "/cerebral_hemorrhage_module/static/js/3.3ca0cd65.chunk.js.map",
+    "e45e814987ef260d64e0.worker.js": "/cerebral_hemorrhage_module/e45e814987ef260d64e0.worker.js",
+    "e45e814987ef260d64e0.worker.js.LICENSE.txt": "/cerebral_hemorrhage_module/e45e814987ef260d64e0.worker.js.LICENSE.txt",
+    "e45e814987ef260d64e0.worker.js.map": "/cerebral_hemorrhage_module/e45e814987ef260d64e0.worker.js.map",
+    "index.html": "/cerebral_hemorrhage_module/index.html",
+    "static/css/main.b6d32e15.chunk.css.map": "/cerebral_hemorrhage_module/static/css/main.b6d32e15.chunk.css.map",
+    "static/js/2.3f16312c.chunk.js.LICENSE.txt": "/cerebral_hemorrhage_module/static/js/2.3f16312c.chunk.js.LICENSE.txt",
+    "static/media/check.06c31cf8.svg": "/cerebral_hemorrhage_module/static/media/check.06c31cf8.svg",
+    "static/media/close.b502d4ba.svg": "/cerebral_hemorrhage_module/static/media/close.b502d4ba.svg",
+    "static/media/gallery.45752e9c.svg": "/cerebral_hemorrhage_module/static/media/gallery.45752e9c.svg",
+    "static/media/gear.b1f1407e.svg": "/cerebral_hemorrhage_module/static/media/gear.b1f1407e.svg",
+    "static/media/no-check.fe894ae6.svg": "/cerebral_hemorrhage_module/static/media/no-check.fe894ae6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f50cc2ab.js",
+    "static/js/2.3f16312c.chunk.js",
+    "static/css/main.b6d32e15.chunk.css",
+    "static/js/main.70f217bd.chunk.js"
+  ]
+}
